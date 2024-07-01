@@ -1,0 +1,26 @@
+body {
+    background-color: none;
+}
+.form-container {
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin-top: 50px;
+}
+
+/* FOOTER ALFAT */
+.footeralfat:hover{
+    transform: scale(1.1);
+}
+
+.footeralfat{
+    transition: transform .5s;
+}
+
+.footeralfat2:hover{
+    transform: scale(1.05);
+}
+
+.footeralfat2{
+    transition: transform .5s;
+}
